@@ -1,28 +1,15 @@
-import { createRouter, createWebHistory } from 'vue-router';
-import Home from '../components/Home.vue'; //  
-import About from '../components/About.vue'; //  
-import Projects from '../components/Projects.vue'; //  
+import { createRouter, createWebHistory } from 'vue-router'; // Vue 3 için
+import MyDashboard from '../components/Dashboard.vue'; // Bileşeni içe aktar
 
 const routes = [{
-        path: '/',
-        name: 'Home',
-        component: Home
-    },
-    {
-        path: '/about',
-        name: 'About',
-        component: About
-    },
-    {
-        path: '/projects',
-        name: 'Projects',
-        component: Projects
-    }
-];
+    path: '/',
+    name: 'MyDashboard',
+    component: MyDashboard,
+}, ];
 
 const router = createRouter({
-    history: createWebHistory(process.env.BASE_URL),
-    routes
+    history: createWebHistory(), // Web geçmişini kullan
+    routes,
 });
 
-export default router;
+export default router; // Router'ı dışa aktar
