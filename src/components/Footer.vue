@@ -1,6 +1,6 @@
 <template>
     <footer>
-      <p>© 2024 Yazılımcı Adınız. Tüm hakları saklıdır.</p>
+      <p>© 2024 Efehan Koçak. Tüm hakları saklıdır.</p>
     </footer>
   </template>
   
@@ -11,7 +11,6 @@
   </script>
   
   
-  <style scoped>
-  /* Stil ekleyebilirsiniz */
+  <style scoped> 
   </style>
   

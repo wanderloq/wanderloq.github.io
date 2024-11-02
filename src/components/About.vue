@@ -12,7 +12,6 @@
   </script>
   
   
-  <style scoped>
-  /* Stil ekleyebilirsiniz */
+  <style scoped> 
   </style>
   

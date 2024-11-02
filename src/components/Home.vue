@@ -1,6 +1,6 @@
 <template>
     <div>
-      <h1>Welcome to My Website</h1>
+      <h1>Benim Websiteme Hoşgeldiniz!</h1>
     </div>
   </template>
   
@@ -10,7 +10,6 @@
   }
   </script>
   
-  <style>
-  /* Stil ekleyebilirsin */
+  <style> 
   </style>
   

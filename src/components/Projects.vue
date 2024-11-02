@@ -2,9 +2,7 @@
     <section>
       <h2>Projelerim</h2>
       <ul>
-        <li>Proje 1</li>
-        <li>Proje 2</li>
-        <li>Proje 3</li>
+        <li>Proje 1</li> 
       </ul>
     </section>
   </template>
@@ -16,7 +14,6 @@
   </script>
   
   
-  <style scoped>
-  /* Stil ekleyebilirsiniz */
+  <style scoped> 
   </style>
   
