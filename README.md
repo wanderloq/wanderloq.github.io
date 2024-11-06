@@ -28,7 +28,3 @@ Katkılarınızı bekliyoruz! Daha iyi bir platform oluşturmak için önerileri
 ## İletişim
 
 Herhangi bir sorunuz veya geri bildiriminiz varsa, lütfen [iletişim sayfasını](https://wanderloq.github.io/) ziyaret edin.
-
-## Lisans
-
-Bu proje [MIT Lisansı](LICENSE) altında lisanslanmıştır.
